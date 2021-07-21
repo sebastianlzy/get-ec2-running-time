@@ -1,0 +1,16 @@
+{
+  "name": "get-ec2-running-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.22.0",
+    "moment": "^2.29.1"
+  }
+}
